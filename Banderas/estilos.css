@@ -2,8 +2,8 @@
     margin-left: 0px;
 }
 .bandera1{
-    width: 400px;
-    height: 550px;
+    width: 200px;
+    height: 350px;
     display: inline-block;
 }
 .azul{
@@ -14,4 +14,15 @@
 }
 .rojo{
     background-color: crimson;
+}
+.cont{
+    margin-left: 0px;
+}
+.bandera2{
+    width: 200px;
+    height: 350px;
+    display: inline-block;
+}
+.verde{
+    background-color: darkgreen;
 }

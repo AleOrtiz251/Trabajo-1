@@ -1,0 +1,17 @@
+.contenedor{
+    margin-left: 55px;
+}
+.bandera1{
+    width: 400px;
+    height: 550px;
+    display: inline-block;
+}
+.azul{
+    background-color: blue;
+}
+.blanco{
+    background-color: white;
+}
+.rojo{
+    background-color: crimson;
+}
